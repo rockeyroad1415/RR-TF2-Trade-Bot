@@ -56,7 +56,7 @@ Will be a subscription based. Contact me for further information. I can assure y
 
 
 Lets talk:
-Have any question or query whether it be big or small don't hesitate! I am always ready to help. 
+Have any question or query whether it be big or small don''t hesitate! I am always ready to help. 
 Contact me here:
 Steam: https://steamcommunity.com/id/rockeyroad1415/
 Discord: rockeyroad1415#9399 
