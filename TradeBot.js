@@ -36,7 +36,7 @@ About me:
 
 - Currently, have more than 500 keys pure in my backpack and my backpack worth upwards of $2500
 
-- 8 +rep's on backpack.tf, mostly based on brokering high-value items for others, refunding items and as well as fixing issues with the bots
+- 8 +rep''s on backpack.tf, mostly based on brokering high-value items for others, refunding items and as well as fixing issues with the bots
 
 - Clean on SteamRep
 
