@@ -1,6 +1,6 @@
 Hello there!
 
-I would like to introduce to you all ?R Bots! After a year or so in continuous development, I am happy to release to you all a TF2 Trade Bot. I have privately used this bot for a year and fixed many issues whilst adding many features which I think may be useful to the owner of the bots.
+I would like to introduce to you all ЯR Bots! After a year or so in continuous development, I am happy to release to you all a TF2 Trade Bot. I have privately used this bot for a year and fixed many issues whilst adding many features which I think may be useful to the owner of the bots.
 
 Features of ЯR Bot:
 
@@ -21,7 +21,7 @@ Features of ЯR Bot:
 - And so much more!
 
 See ЯR Bots in action:
-Currently have two ?R Bots which have been used for trading and testing:
+Currently have two ЯR Bots which have been used for trading and testing:
 SpeedyBot: https://backpack.tf/profiles/76561198154777866 https://steamcommunity.com/profiles/76561198154777866
 HappyBot: https://backpack.tf/profiles/76561198177957865 https://steamcommunity.com/profiles/76561198177957865
 Their live trades can be seen in the discord group - current bot trades section (https://discord.gg/M9ftkpY)
@@ -60,7 +60,7 @@ Have any question or query whether it be big or small don't hesitate! I am alway
 Contact me here:
 Steam: https://steamcommunity.com/id/rockeyroad1415/
 Discord: rockeyroad1415#9399 
-My Discord Group where you can see ?R Bots in action: https://discord.gg/M9ftkpY
+My Discord Group where you can see ЯR Bots in action: https://discord.gg/M9ftkpY
 
 Chat Soon! 
 Rockey 
